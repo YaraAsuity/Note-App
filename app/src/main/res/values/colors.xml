@@ -1,0 +1,37 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Background Colors -->
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="noteColor1">#C9EBA1</color> <!-- Light Orange -->
+    <color name="noteColor2">#BCF1F8</color> <!-- Light Blue -->
+    <color name="noteColor3">#C5E1A5</color> <!-- Light Green -->
+    <color name="noteColor4">#FFAB91</color> <!-- Light Red -->
+    <color name="noteColor5">#FFCCDD</color> <!-- Light Pink -->
+    <color name="noteColor6">#CEB5FB</color> <!-- Light Purple -->
+    <!-- Text Colors -->
+
+    <!-- Button Colors -->
+    <!-- Text Colors -->
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="buttonBackground">#6200EE</color>
+    <color name="buttonText">#FFFFFF</color>
+
+    <!-- Card Colors -->
+    <color name="red2">#FADC85</color>
+    <color name="blue">#9AB7F8</color>
+    <color name="blue2">#5D8FFF</color>
+    <color name="yellow">#FDF7C2</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="cardElevation">#E0E0E0</color>
+</resources>
