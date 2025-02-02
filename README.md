@@ -1,1 +1,1 @@
-<img src="image.jpg" alt="Product Image">
+<img src="image.jpg" ">
